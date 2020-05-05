@@ -2,7 +2,7 @@
 ---
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>{{ page.title }}</title>
     <style>
     div#content {
       width: 600px;
