@@ -25,10 +25,14 @@ Alum who can help?
 ------------------
 
 If you would like to offer support to a student in need, fill out [this
-form](#). You will be able to specify what kind of support and how much
+form](). You will be able to specify what kind of support and how much
 time you can give. The responses will only be visible to select alumni,
 several people on the WiCS board, and Donna Cirelli. These people will
 attempt to match you with someone who has filled out the form above.
+
+Are you interested in supporting students pivoting to work on technical 
+projects to support nonprofit in light of internship cancellations this summer?
+Fill out our [alumni interest form](https://docs.google.com/forms/d/e/1FAIpQLSdc__kcijCPs6vhALjoZ5meRintGMaU5EzkXPg-tQ4itNDz7Q/viewform?usp=sf_link) to get involved!
 
 ------------------------------------------------------------------------
 
@@ -44,8 +48,7 @@ or more of the activities listed below may be for you.
 Gain valuable experience by working for a non-profit or on a personal project
 under the mentorship of an upperclassman or professional in industry!
 
-More info &amp; sign-up form link are coming soon...
-
+For more information, check out the [program overview](https://docs.google.com/document/d/19yCL66jVhLahWVx0XvJ6kwh2qIi-VPJwHmLDOXxmDHY/edit?usp=sharing), or fill out the [online application](https://docs.google.com/forms/d/e/1FAIpQLSdty6--eR7FvFhW5p1AgyiMe3BAQ2c-Ldjw6CPOHMhWcn4TJA/viewform?usp=sf_link).
 
 ### Your own personal or group project
 
