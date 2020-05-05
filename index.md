@@ -31,7 +31,7 @@ several people on the WiCS board, and Donna Cirelli. These people will
 attempt to match you with someone who has filled out the form above.
 
 Are you interested in supporting students pivoting to work on technical 
-projects to support nonprofit in light of internship cancellations this summer?
+projects to support nonprofits in light of internship cancellations this summer?
 Fill out our [alumni interest form](https://docs.google.com/forms/d/e/1FAIpQLSdc__kcijCPs6vhALjoZ5meRintGMaU5EzkXPg-tQ4itNDz7Q/viewform?usp=sf_link) to get involved!
 
 ------------------------------------------------------------------------
