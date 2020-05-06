@@ -115,9 +115,10 @@ Here are some resources that may be of use to you:
   laying people off, and rescinding job offers
 * [Companies still hiring](https://www.levels.fyi/still-hiring/)
 * [Virtual Internship and Job Postings](https://internfromhome.com/postings/)
-* Hacker News' list of [Who's Hiring right now](https://news.ycombinator.com/item?id=22665398)
+* Hacker News' list of [Who's Hiring right now](https://news.ycombinator.com/item?id=22665398) (+ [May 2020](https://news.ycombinator.com/item?id=23042618))
 * [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScpD1k1mj7MQEKXQmmkW5zOAbXnMzD_zOm3yFQAtLVBUVfc7w/viewform)
   to add your name and resume to potential openings:
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1veoc3BJdELLkYpiJ1_ehXuKL_nK9ijROk8_bn0OmPso/htmlview)
   with multiple different people that have been laid off (add your name),
   companies laying off, companies hiring, etc:
+* [Spreadsheet](https://docs.google.com/spreadsheets/d/1kqNn_C3i4bqGiOXRJOBHIl3iZbmaxmbh19B7j1Ba9tI/htmlview?pru=AAABcg-WDys*6T5-lHzyYEd94NP1jui_ZQ#gid=0) of Boston companies currently hiring
