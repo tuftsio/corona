@@ -5,7 +5,7 @@ title: Tufts CS COVID-19 Resources
 
 # Tufts CS COVID-19 Resources
 
-*Last updated: May 7, 2020*
+*Last updated: May 7, 2020* -- added links to forms.
 
 If you're on this page, you are probably trying to figure out what to do this
 summer. This page has some resources for you, and hopefully more to come. We
@@ -15,23 +15,28 @@ your summer.
 Confused student?
 -----------------
 
-If you would like to talk to a human being about your circumstances,
-please fill out [this form](#). The responses will only be visible to
-select alumni, several people on the WiCS board, and Donna Cirelli.
-These people will attempt to match you with someone who has filled out
-the form below.
+If you would like to talk to a human being about your circumstances, please
+fill out [this form][confused-student]. The responses will only be visible to
+select alumni, several people on the WiCS board, and Donna Cirelli.  These
+people will attempt to match you with someone who has filled out the form
+below.
+
+[confused-student]: https://docs.google.com/forms/d/e/1FAIpQLSfPesmepX4nwUBzgUT_FcM5iddUjKnVge4DOrDcAOegcZuqmw/viewform?usp=sf_link
 
 Alum who can help?
 ------------------
 
 If you would like to offer support to a student in need, fill out [this
-form](#). You will be able to specify what kind of support and how much
-time you can give. The responses will only be visible to select alumni,
-several people on the WiCS board, and Donna Cirelli. These people will
-attempt to match you with someone who has filled out the form above.
+form][helpful-alum]. You will be able to specify what kind of support and how
+much time you can give. The responses will only be visible to select alumni,
+several people on the WiCS board, and Donna Cirelli. These people will attempt
+to match you with someone who has filled out the form above.
 
-Are you interested in supporting students pivoting to work on technical 
-projects to support nonprofits in light of internship cancellations this summer?
+[helpful-alum]: https://docs.google.com/forms/d/e/1FAIpQLScH92hWx-PxGHbZpVBGXbJScXTHMz44ja9SgwgL2UOS5k8NPA/viewform?usp=sf_link
+
+Are you interested in supporting students pivoting to work on technical
+projects to support nonprofits in light of internship cancellations this
+summer?
 Fill out our [alumni interest form](https://docs.google.com/forms/d/e/1FAIpQLSdc__kcijCPs6vhALjoZ5meRintGMaU5EzkXPg-tQ4itNDz7Q/viewform?usp=sf_link) to get involved!
 
 ------------------------------------------------------------------------
