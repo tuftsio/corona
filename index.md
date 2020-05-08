@@ -5,7 +5,7 @@ title: Tufts CS COVID-19 Resources
 
 # Tufts CS COVID-19 Resources
 
-*Last updated: April 27, 2020*
+*Last updated: May 7, 2020*
 
 If you're on this page, you are probably trying to figure out what to do this
 summer. This page has some resources for you, and hopefully more to come. We
@@ -48,7 +48,10 @@ or more of the activities listed below may be for you.
 Gain valuable experience by working for a non-profit or on a personal project
 under the mentorship of an upperclassman or professional in industry!
 
-For more information, check out the [program overview](https://docs.google.com/document/d/19yCL66jVhLahWVx0XvJ6kwh2qIi-VPJwHmLDOXxmDHY/edit?usp=sharing), or fill out the [online application](https://docs.google.com/forms/d/e/1FAIpQLSdty6--eR7FvFhW5p1AgyiMe3BAQ2c-Ldjw6CPOHMhWcn4TJA/viewform?usp=sf_link).
+For more information, check out the
+[program overview](https://docs.google.com/document/d/19yCL66jVhLahWVx0XvJ6kwh2qIi-VPJwHmLDOXxmDHY/edit?usp=sharing)
+(alternate view [here](codeforgood)), or fill out the
+[online application](https://docs.google.com/forms/d/e/1FAIpQLSdty6--eR7FvFhW5p1AgyiMe3BAQ2c-Ldjw6CPOHMhWcn4TJA/viewform?usp=sf_link).
 
 ### Your own personal or group project
 
