@@ -5,7 +5,7 @@ title: Tufts CS COVID-19 Resources
 
 # Tufts CS COVID-19 Resources
 
-*Last updated: May 7, 2020* -- added links to forms.
+*Last updated: May 18, 2020* -- added more text &amp; video resources.
 
 If you're on this page, you are probably trying to figure out what to do this
 summer. This page has some resources for you, and hopefully more to come. We
@@ -70,6 +70,11 @@ Think about software you have always wanted to exist, or pain points in
 existing software. Aim big, but start small.
 
 
+Ming recommends [this very very long list](https://news.ycombinator.com/item?id=23170881)
+of Hacker News posters' current side projects. There are over 2000 responses
+and multiple pages, so make sure to page through them all.
+
+
 ### Open source
 
 Interested in contributing to projects such as Python and Firefox? Many
@@ -130,3 +135,7 @@ Here are some resources that may be of use to you:
   with multiple different people that have been laid off (add your name),
   companies laying off, companies hiring, etc:
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1kqNn_C3i4bqGiOXRJOBHIl3iZbmaxmbh19B7j1Ba9tI/htmlview?pru=AAABcg-WDys*6T5-lHzyYEd94NP1jui_ZQ#gid=0) of Boston companies currently hiring
+* A [letter to you](letter.pdf) (PDF) written by Jim Lawton, E88
+* A [video by Ming](https://www.youtube.com/watch?v=05rHdlOoLGE) about packet
+  analysis using Wireshark
+* The [Tisch COVID-19 program](https://now.tufts.edu/news-releases/new-program-provides-grants-tufts-students-summer-projects-address-effects-covid-19)
