@@ -135,7 +135,7 @@ Here are some resources that may be of use to you:
   with multiple different people that have been laid off (add your name),
   companies laying off, companies hiring, etc:
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1kqNn_C3i4bqGiOXRJOBHIl3iZbmaxmbh19B7j1Ba9tI/htmlview?pru=AAABcg-WDys*6T5-lHzyYEd94NP1jui_ZQ#gid=0) of Boston companies currently hiring
-* A [letter to you](letter.pdf) (PDF) written by Jim Lawton, E88
+* A [letter to you](jim_letter.pdf) (PDF) written by Jim Lawton, E88
 * A [video by Ming](https://www.youtube.com/watch?v=05rHdlOoLGE) about packet
   analysis using Wireshark
 * The [Tisch COVID-19 program](https://now.tufts.edu/news-releases/new-program-provides-grants-tufts-students-summer-projects-address-effects-covid-19)
